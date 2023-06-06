@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/jjjryqzv/public_html/avancar/
-    - /bin/cp * $DEPLOYPAT
+    - /bin/cp * $DEPLOYPATH
